@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @e-xxxxl
+- 👋 Hi, I’m Ajejohnson Emmanuel
 - 👀 I’m interested in full-stack development, building scalable applications, and enhancing user experiences with clean and functional design.
 - 🌱 I’m currently learning Advanced React concepts, TypeScript, and system design principles.
 - 💞️ I’m looking to collaborate on Open-source projects, startup ideas, and innovative web development projects.
