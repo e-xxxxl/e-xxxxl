@@ -1,13 +1,25 @@
-- 👋 Hi, I’m Ajejohnson Emmanuel
-- 👀 I’m interested in full-stack development, building scalable applications, and enhancing user experiences with clean and functional design.
-- 🌱 I’m currently learning Advanced React concepts, TypeScript, and system design principles.
-- 💞️ I’m looking to collaborate on Open-source projects, startup ideas, and innovative web development projects.
-- 📫 How to reach me Email: eajejohnson@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I can spend hours debugging code but can't find my socks in the morning! 🧦
+# 👋 Hey there, I'm Ajejohnson Emmanuel!  
 
+### 🚀 About Me  
+💻 Full-stack developer passionate about **building scalable applications** and crafting seamless **user experiences** with clean, functional design.  
+📚 Currently diving deeper into **Advanced React**, **TypeScript**, and **System Design** principles.  
+🤝 Open to collaborations on **open-source projects, startups, and innovative web apps**.  
 
-<!---
-e-xxxxl/e-xxxxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 Tech Stack  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+
+### 📬 Let's Connect  
+📧 Email: [eajejohnson@gmail.com](mailto:eajejohnson@gmail.com)  
+💼 LinkedIn: (https://www.linkedin.com/in/ajejohnson-emmanuel-8929902a0/)  
+🐦 Twitter: (https://x.com/aje_emmanuell)  
+
+### ⚡ Fun Fact  
+I can spend **hours debugging code** but still struggle to find my socks in the morning! 🧦😂  
+
+---
+
+_✨ **Let's build something amazing together!** ✨_
